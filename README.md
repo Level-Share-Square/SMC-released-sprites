@@ -10,15 +10,20 @@ The following requirements must be met for any of the sprites in this repository
 - Credit must be given to the original author(s) of the sprites used in your project, according to the instructions of the spritesheets.
 - Do not redistribute the sprites on any other platforms than the original repository/sources.
 - Crediting Super Mario Construct as source game itself is optional, but shouldn't replace credit of the original author(s) of the sprites.
+- No credit is needed if not specified within the image (mainly applies to palettes).
+- We don't own the IP of any of the sprites, although the style may be left ambigious for some... Just keep in mind to give credit in the same fashion you'd want to be credited for your own project.
 
 ## Contributors
 
-The following people contributed to the creation of the sprites within the repository and the repository itself.(Alphabetically)
+The following people contributed to the creation of the sprites within the repository and the repository itself. (Alphabetically)
 
-- Cube (Artist of SMAS styled assets)
+- Cube (Sprite artist)
+- Fesh (Sprite artist)
 - MrGerund (Curator)
-- Nitrox (Artist of SMW/SMAS styled assets)
-- NotAToon (Artist of SMW/SMAS styled assets)
-- Noveni (Artist of SMAS styled assets)
-- Smuglutena (Artist of SMW/SMAS styled assets)
-- TheCrushedJoycon (Artist of SMAS styled assets)
+- Nitrox (Sprite artist)
+- NotAToon (Sprite artist)
+- Noveni (Sprite artist)
+- Popthatcorn14 (Curator)
+- Smuglutena (Sprite artist)
+- TheCrushedJoycon (Sprite artist)
+- Tristaph (Sprite artist)
